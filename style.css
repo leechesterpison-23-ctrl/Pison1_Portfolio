@@ -38,7 +38,15 @@ ul {
 .contact .thank-you {
   margin-top: 15px;
   font-weight: bold;
-  color: #1e40af; 
+  color: #1e40af;
+}
+
+.highlight-quote {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: #1e40af;
+  margin: 20px 0;
 }
 
 footer {
