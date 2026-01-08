@@ -31,6 +31,16 @@ ul {
   padding-left: 20px;
 }
 
+.contact p {
+  margin: 5px 0;
+}
+
+.contact .thank-you {
+  margin-top: 15px;
+  font-weight: bold;
+  color: #1e40af; 
+}
+
 footer {
   text-align: center;
   padding: 15px;
