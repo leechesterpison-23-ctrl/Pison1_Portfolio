@@ -22,8 +22,8 @@ header.header-flex {
 }
 
 .profile-pic img {
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   border-radius: 30%;
   object-fit: cover;
   border: 2px solid white;
