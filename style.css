@@ -10,11 +10,27 @@ body {
   color: #333;
 }
 
-header {
+header.header-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: #1e293b;
   color: white;
-  text-align: center;
   padding: 30px;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.profile-pic img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid white;
+}
+
+.header-text h1 {
+  margin-bottom: 10px;
 }
 
 section {
